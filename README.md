@@ -52,7 +52,7 @@ O podcast é dividido em blocos temáticos, abordando:
 
 - **Roteiro**: ChatGPT (OpenAI) + Curadoria Humana  
 - **Vozes**: ElevenLabs  
-- **Edição e Produção**: Descript + [(@annacarolmar)]
+- **Edição e Produção**: Descript + [@annacarolmar]
 
 ---
 
